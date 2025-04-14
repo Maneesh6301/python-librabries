@@ -1,0 +1,30 @@
+#from seaborn displot
+The visualization the graph between the density and PassengerId.It gives the downward parabolic shape
+
+
+
+
+#pairplot
+It gives the different varaiations of the graphs 
+
+
+#heatup
+It shows thw colour saturation to the 
+
+
+#boxplot 
+It gives the median ,quartile and potential outliers
+
+
+
+
+#scatterplot
+It gives the perdiction of 0 and 1
+for o is the color is fade
+for 1 is the color is bright
+
+
+overall it gives the visualization  for the data
+It gives the classification in the graphs whether the passenger is survived or not,it gives the trend of survived passengers and there is anamolous because of less columns
+findings from the data is graphs are used to analyize the date very quickly and mainly used to make decision
+This gives survival rate in titanic ship
